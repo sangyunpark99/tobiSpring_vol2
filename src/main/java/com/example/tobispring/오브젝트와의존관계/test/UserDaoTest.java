@@ -9,7 +9,7 @@ public class UserDaoTest {
         UserDao dao = new UserDao();
 
         User user = new User();
-        user.setId("hello");
+        user.setId("hello2");
         user.setName("sangyunpark");
         user.setPassword("123123");
 
